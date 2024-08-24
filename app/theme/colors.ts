@@ -1,5 +1,3 @@
-// TODO: write documentation for colors and palette in own markdown file and add links from here
-
 const palette = {
   neutral100: "#FFFFFF",
   neutral200: "#F4F2F1",
@@ -81,4 +79,11 @@ export const colors = {
    *
    */
   errorBackground: palette.angry100,
+  /**
+   * Custom Colors
+   */
+  lightGray: "#E3E3E3",
+  white: "#FFFFFF",
+  shadow: "#CCCCCC",
+  red: "#EE1100",
 }
